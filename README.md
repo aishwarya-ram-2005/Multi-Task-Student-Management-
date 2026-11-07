@@ -1,9 +1,3 @@
-<img width="1907" height="886" alt="Screenshot 2026-11-07 140306" src="https://github.com/user-attachments/assets/3eb36f6b-159a-49c9-afe0-e4621ebf771d" />
-<img width="1912" height="905" alt="Screenshot 2026-11-07 140252" src="https://github.com/user-attachments/assets/9df0b43f-c209-41b8-9629-17eaa3ef622f" />
-<img width="1897" height="853" alt="Screenshot 2026-11-07 125458" src="https://github.com/user-attachments/assets/9c3bb080-81b6-4fa9-af2b-aa279432ed13" />
-<img width="1908" height="858" alt="Screenshot 2026-11-07 125419" src="https://github.com/user-attachments/assets/4f7d6849-8f2e-4080-b684-8bbd3963d47c" />
-<img width="1912" height="853" alt="Screenshot 2026-11-07 125355" src="https://github.com/user-attachments/assets/9cc17f23-164d-4a78-93e4-1032004aaebc" />
-<img width="1907" height="857" alt="Screenshot 2026-11-07 125325" src="https://github.com/user-attachments/assets/f65c27ca-74c2-4a65-a5a2-a7d80d6c0e24" />
 #Multi Task Student Management — Flask + SQLite
 
 This single workspace includes the six task areas described in the internship PDF:
@@ -45,3 +39,8 @@ If PowerShell blocks activation, switch the VS Code terminal to Command Prompt a
 
 ## Notes
 This is an internship demonstration project, not production software. The app uses parameterized SQL values and Flask template escaping. Change the secret key before deployment. Keep screenshots of the dashboard and each module for your internship submission.
+
+<img width="1897" height="853" alt="Screenshot 2026-11-07 125458" src="https://github.com/user-attachments/assets/9c3bb080-81b6-4fa9-af2b-aa279432ed13" />
+<img width="1908" height="858" alt="Screenshot 2026-11-07 125419" src="https://github.com/user-attachments/assets/4f7d6849-8f2e-4080-b684-8bbd3963d47c" />
+<img width="1912" height="853" alt="Screenshot 2026-11-07 125355" src="https://github.com/user-attachments/assets/9cc17f23-164d-4a78-93e4-1032004aaebc" />
+<img width="1907" height="857" alt="Screenshot 2026-11-07 125325" src="https://github.com/user-attachments/assets/f65c27ca-74c2-4a65-a5a2-a7d80d6c0e24" />
