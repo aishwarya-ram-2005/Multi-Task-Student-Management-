@@ -1,4 +1,4 @@
-# Auspify Software Development Internship — Flask + SQLite
+#Multi Task Student Management — Flask + SQLite
 
 This single workspace includes the six task areas described in the internship PDF:
 1. Student Management: create, view, search, update, delete.
