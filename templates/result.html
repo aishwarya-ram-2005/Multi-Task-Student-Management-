@@ -1,0 +1,1 @@
+{% extends "base.html" %}{% block content %}<section class="hero"><p class="eyebrow">EXAM SUBMITTED</p><h1>Result for {{name}}</h1><div class="score">{{score}} / {{total}}</div><p>Score recorded in the results list.</p><a class="btn" href="{{url_for('exam_results')}}">View results</a></section>{% endblock %}
